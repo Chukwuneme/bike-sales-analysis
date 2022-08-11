@@ -29,3 +29,16 @@ Analysis of bike sales data
 * Which gender makes the most purchases?
 * Which age group makes the most purchases?
 * What are the top performing products for each gender?
+
+## Analysis and report
+
+[Download report here](www.nairaland.com)
+
+## Conclusions
+
+* United States and France are the best and worst performing States respectively.
+* The bikes category has the most sales.
+* On the yearly time frame, for the Bikes category, there is an increasing trend in profits while the clothing and accessories categories have stable profits.
+* On the monthly time frames,  sales drop by over 30% around June to July, with a sharp rise from November to December, probably due to the festive season.
+* In terms of products category, both gender have similar number of purchases across all categories.
+* Adults make the most purchases, while seniors make the least amount of purchases.
