@@ -32,7 +32,7 @@ Analysis of bike sales data
 
 ## Analysis and report
 
-[Download report here](www.nairaland.com)
+[Download report here](https://github.com/Chukwuneme/bike-sales-analysis/blob/main/bike%20sales%20analysis.pdf)
 
 ## Conclusions
 
